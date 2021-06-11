@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623306311 source:c:\users\zyad\desktop\project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+	<fstream>
+
+1623444883 source:c:\users\zyad\desktop\doc\computer graphics\assignments\project\project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+	<fstream>
+
